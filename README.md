@@ -1,5 +1,5 @@
 # Regular Expression <br/>
-[![Website](https://img.shields.io/badge/Using-JavaScript-green)]()
+[![Website](https://img.shields.io/badge/Using-JavaScript-green)](https://github.com/thotho19)
 #### What is Regular Expression ? <br/>
 A regular expression is a mechanism or a method  that can be used in any programming language for **Pattern Matching**. <br/>
 #### What is Pattern Matching ? <br/>
